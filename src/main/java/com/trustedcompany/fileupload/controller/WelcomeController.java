@@ -1,4 +1,4 @@
-package com.trustedcompany.fileupload;
+package com.trustedcompany.fileupload.controller;
 
 import java.util.Map;
 
